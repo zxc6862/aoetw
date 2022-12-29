@@ -391,6 +391,43 @@
           </tr>
         </table>
       </div>
+  <div class="col-md-3">
+        <table class="table-bordered" width="100%">
+          <tr>
+            <td class="unitc">
+              <div class="unititle">
+                <nuxt-link to="/games/de"
+                  ><img src="~assets/deicon.png" />西方霸主</nuxt-link
+                >
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <div class="unitcontent">
+                西歐
+                <ul>
+                  <li>
+                    <img class="gg" src="~assets/bulgarians.png" /><nuxt-link
+                      to="/civs/Burgundians"
+                      >勃根地</nuxt-link
+                    >
+                  </li>
+                </ul>
+                地中海
+                <ul>
+                  <li>
+                    <img class="gg" src="~assets/cumans.png" /><nuxt-link
+											 to="/civs/Sicilians"
+                      >西西里</nuxt-link
+                    >
+                  </li>
+                </ul>
+              </div>
+            </td>
+          </tr>
+        </table>
+      </div>
       <hr />
     </div>
   </div>
